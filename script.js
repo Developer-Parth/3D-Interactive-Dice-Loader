@@ -10,7 +10,7 @@ const themesDOM = document.querySelector(".themes");
 
 const redirectBtn = document.getElementById("redirectTo");
 
-let baseURL = `https://github.com/Developer-Parth`;
+let baseURL = `https://github.com/Developer-Parth/`;
 
 const themeEvent = (targetEle) => {
     const targetElement = targetEle.target;
