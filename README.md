@@ -1,4 +1,4 @@
-## 3D Interactive Dice Loader 🎲🔥
+# 3D Interactive Dice Loader 🎲🔥
 
 ![3D Dice Loader](preview.png)
 
