@@ -3,7 +3,7 @@
 ![3D Dice Loader](preview.png)
 
 ## 🤯 What Is This?
-This is a **3D animated dice loader** built using **HTML, CSS, and JavaScript**. It has smooth animations, different themes, auto-rolling effects, and even a **favicon.ico**! Basically, this ain't your regular boring spinner, it's a whole vibe! 😎🔥
+This is a **3D animated dice loader** built using **HTML, CSS, and JavaScript**. It has smooth animations, different themes, auto-rolling effects! Basically, this ain't your regular boring spinner, it's a whole vibe! 😎🔥
 
 ## 🚀 Features (What You Get?)
 - 🎲 **3D Dice Animation** – Rolls like a real dice, but digitally cooler!
@@ -23,7 +23,7 @@ This is a **3D animated dice loader** built using **HTML, CSS, and JavaScript**.
 | 📁 Folder/File | 📄 Description |
 |--------------|---------------|
 | 📄 [index.html](index.html) | Main HTML file (The Boss!) |
-| 🎨 [style.css](style.css) | CSS for styling (Makes it sexy) |
+| 🎨 [style.css](style.css) | CSS for styling (Handles the visuals) |
 | 🎮 [script.js](script.js) | JavaScript for logic (Brain of the project) |
 | 📜 [README.md](README.md) | You’re reading it now, duh! |
 | 🖼️ [preview.png](preview.png) | Screenshot preview (Flex time) |
